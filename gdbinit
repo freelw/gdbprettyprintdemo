@@ -1,0 +1,1 @@
+source /workspaces/gdbprettyprintdemo/pretty-printer/gdb.py
